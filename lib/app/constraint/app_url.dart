@@ -2,13 +2,13 @@
 // const baseUrl = "http://localhost:5000/";
 
 // --> only for your android (localhost --> 10.0.2.2)
-const baseUrl = "http://10.0.2.2:5000/";
+// const baseUrl = "http://10.0.2.2:5000/";
 
 // --> only for your android real device
 // const baseUrl = "http://192.168.137.249:5000/";
 
 //My Home
-// const baseUrl = "http://192.168.1.68:5000/";
+const baseUrl = "http://192.168.0.106:5000/";
 
 // For Testing
 // const baseUrl = "http://localhost:5000/";

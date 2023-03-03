@@ -19,10 +19,10 @@ class SignUpForm extends StatefulWidget {
 
 class _SignUpFormState extends State<SignUpForm> {
   final _formKey = GlobalKey<FormState>();
-  final _emailController = TextEditingController(text: 'karma@gmail.com');
-  final _phoneController = TextEditingController(text: '9808792437');
-  final _passwordController = TextEditingController(text: 'password123');
-  final _fullNameController = TextEditingController(text: 'Karma Gurung');
+  final _emailController = TextEditingController(text: 'pooja@gmail.com');
+  final _phoneController = TextEditingController(text: '9845876427');
+  final _passwordController = TextEditingController(text: 'pooja@123');
+  final _fullNameController = TextEditingController(text: 'pooja rijal');
   final _dobController = TextEditingController();
   final _avatarController = TextEditingController();
 
