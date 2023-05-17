@@ -1,16 +1,1 @@
-# techies_battle
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm currently developing an e-commerce app using Flutter and Node.js. One of the key features I'm working on is integrating Khalti payment system directly into the app. It's an exciting project that allows me to leverage the power of Flutter for seamless cross-platform development and Node.js for efficient backend operations. The Khalti payment integration will provide a convenient and secure payment experience for users, making transactions within the app hassle-free.
